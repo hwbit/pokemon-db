@@ -1,0 +1,15 @@
+INSERT INTO EggGroup VALUES ('Undiscovered');
+INSERT INTO EggGroup VALUES ('Monster');
+INSERT INTO EggGroup VALUES ('Water1');
+INSERT INTO EggGroup VALUES ('Bug');
+INSERT INTO EggGroup VALUES ('Flying');
+INSERT INTO EggGroup VALUES ('Field');
+INSERT INTO EggGroup VALUES ('Fairy');
+INSERT INTO EggGroup VALUES ('Grass');
+INSERT INTO EggGroup VALUES ('Humanlike');
+INSERT INTO EggGroup VALUES ('Water3');
+INSERT INTO EggGroup VALUES ('Mineral');
+INSERT INTO EggGroup VALUES ('Amorphous');
+INSERT INTO EggGroup VALUES ('Water2');
+INSERT INTO EggGroup VALUES ('Ditto');
+INSERT INTO EggGroup VALUES ('Dragon');
